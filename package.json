@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cesium": "^1.19.0",
     "electron-packager": "^5.2.1",
     "electron-prebuilt": "^0.37.2"
+  },
+  "dependencies": {
+    "cesium": "^1.21.0"
   }
 }
